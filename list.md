@@ -6,10 +6,10 @@ General Sizing: L, 32x32
 - Jeans
 - Dress Shirts
 - Sweaters
-- [Boots](https://www.blundstone.com/brown-premium-leather-chelsea-boots-mens-style-2340)
+- [Blundstone Boots](https://www.blundstone.com/brown-premium-leather-chelsea-boots-mens-style-2340)
 
 ## Books
-- [Book Title 1](https://www.example.com)
+- [Algorithms To Live By](https://a.co/d/9JigNJg)
 - [Book Title 2](https://www.example.com)
 
 ## Miscellaneous Things
