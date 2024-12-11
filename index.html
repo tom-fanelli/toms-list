@@ -17,44 +17,6 @@
                 document.getElementById('content').innerHTML = marked.parse(result);
             })
             .catch(error => console.error("Error loading markdown:", error));
-
-        // Snowflake generation function
-        function createSnowflakes() {
-            const snowflakeCount = 100; // Number of snowflakes
-            const body = document.body;
-
-            for (let i = 0; i < snowflakeCount; i++) {
-                const snowflake = document.createElement('div');
-                snowflake.classList.add('snowflake');
-
-                // Random snowflake sizes (small, medium, large)
-                const sizeClass = ['size-small', 'size-medium', 'size-large'][Math.floor(Math.random() * 3)];
-                snowflake.classList.add(sizeClass);
-
-                // Set the snowflake symbol
-                snowflake.innerHTML = '❄️';
-
-                // Set random starting position
-                snowflake.style.left = `${Math.random() * window.innerWidth}px`;
-                snowflake.style.top = `${Math.random() * -150}px`;  // Start above the screen
-
-
-                // Set animation duration, delay, and timing function
-                const animationDuration = `${Math.random() * 5 + 5}s`; // Random fall speed
-                const animationDelay = `${Math.random() * 10 - 5}s`; // Start with delay (making it seem as if it started 10 seconds ago)
-                snowflake.style.animationDuration = animationDuration;
-                snowflake.style.animationDelay = animationDelay; // Negative delay to simulate snowflakes already falling
-
-                // Randomize the rotation speed for more variation
-                snowflake.style.animationTimingFunction = 'linear';
-
-                // Append to body
-                body.appendChild(snowflake);
-            }
-        }
-
-        // Call the function to start generating snowflakes
-        createSnowflakes();
     </script>
 </body>
 </html>
