@@ -1,4 +1,5 @@
-# 🎄 Tom’s Christmas List 🎁
+# 🎄 Tom’s 2024 Christmas List 🎁
+Merry Christmas Everyone!
 
 ## Clothing
 General Sizing: L, 32x32
@@ -15,7 +16,3 @@ General Sizing: L, 32x32
 - Luggage Set
 - Puzzles
 - Razor
-
----
-
-Happy Holidays! 🎅
