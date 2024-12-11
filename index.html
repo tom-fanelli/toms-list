@@ -7,28 +7,18 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1 id="toms-christmas-wish-list">🎄 Tom’s Christmas Wish List 🎁</h1>
-    <h2 id="clothing">Clothing</h2>
-    <p>General Sizing: L, 32x32</p>
-    <ul>
-    <li>Jeans</li>
-    <li>Dress Shirts</li>
-    <li>Sweaters</li>
-    <li><a
-    href="https://www.blundstone.com/brown-premium-leather-chelsea-boots-mens-style-2340">Boots</a></li>
-    </ul>
-    <h2 id="books">Books</h2>
-    <ul>
-    <li><a href="https://www.example.com">Book Title 1</a></li>
-    <li><a href="https://www.example.com">Book Title 2</a></li>
-    </ul>
-    <h2 id="miscellaneous-things">Miscellaneous Things</h2>
-    <ul>
-    <li>Luggage Set</li>
-    <li>Puzzles</li>
-    <li>Razor</li>
-    </ul>
-    <hr />
-    <p>Happy Holidays! 🎅</p>
+    <h1>🎄 Tom’s Christmas List 🎁</h1>
+    <div id="content"></div>
+
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script>
+        // Fetch the markdown file and convert it to HTML
+        fetch("list.md")
+            .then(response => response.text())
+            .then(text => {
+                document.getElementById("content").innerHTML = marked(text);
+            })
+            .catch(error => console.error("Error loading markdown:", error));
+    </script>
 </body>
 </html>
