@@ -11,6 +11,7 @@
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <script>
         // Fetch the markdown file and convert it to HTML
+        // note: need to use raw file from GH to avoid CORS errors
         fetch('https://raw.githubusercontent.com/tom-fanelli/toms-list/refs/heads/main/list.md')
             .then(response => response.text())
             .then(result => {
