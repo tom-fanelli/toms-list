@@ -17,6 +17,7 @@ h1 {
   color: #d32f2f;
   font-size: 2.5em;
   margin-bottom: 10px;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
 }
 
 h2 {
@@ -58,9 +59,3 @@ p {
   font-size: 1.2em;
   color: #555;
 }
-
-/* Highlighting Specific Elements */
-#toms-christmas-wish-list {
-  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
-}
-

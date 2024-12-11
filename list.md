@@ -1,6 +1,7 @@
 # 🎄 Tom’s Christmas List 🎁
 
 ## Clothing
+General Sizing: L, 32x32
 - Jeans
 - Dress Shirts
 - Sweaters
