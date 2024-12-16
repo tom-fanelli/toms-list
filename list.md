@@ -12,6 +12,8 @@ General Sizing: L, 32x32
 - [Algorithms To Live By](https://a.co/d/9JigNJg) by Brian Christian
 - [The Code Book](https://a.co/d/exX2R1E) by Simon Singh 
 - [An American Sickness](https://a.co/d/4IwDWJN) by Elisabeth Rosenthal
+- [The Master And Margarita](https://www.amazon.com/Master-Margarita-50th-Anniversary-Penguin-Classics/dp/0143108271/ref=asc_df_0143108271?mcid=0730a8f425313a1e9a27a3248b6c8316&hvocijid=12863653264672905370-0143108271-&hvexpln=73&tag=hyprod-20&linkCode=df0&hvadid=692875362841&hvpos=&hvnetw=g&hvrand=12863653264672905370&hvpone=&hvptwo=&hvqmt=&hvdev=m&hvdvcmdl=&hvlocint=&hvlocphy=1022982&hvtargid=pla-2281435176858&psc=1&dplnkId=e0624c20-d607-4648-999a-9fda9e072c93&nodl=1) by Mikhail Bulgakov
+- [The Good Earth](https://a.co/d/dGcYQZu) by Pearl Buck
 - [Queen Songbook](https://www.guitarcenter.com/Hal-Leonard/The-Best-Of-Queen-Piano-Vocal-Guitar-Songbook-1274034471375.gc) by Hal Leonard
 
 ## Miscellaneous Things
