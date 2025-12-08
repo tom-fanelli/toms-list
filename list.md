@@ -3,7 +3,7 @@ Merry Christmas Everyone!
 
 ## Clothing
 General Sizing: L, 32x32
-- [Birkenstock EVA Sandals](https://www.birkenstock.com/us/arizona-eva/arizona-eva-eva-0-eva-u_3716.html) (black, size 12)
+- [Birkenstock EVA Sandals](https://www.birkenstock.com/us/arizona-eva/arizona-eva-eva-0-eva-u_6774.html3716.html) (silver, size 12)
 
 ## Miscellaneous Things
 - [The Chef's Press 13oz](https://www.thechefspress.com/shop/p/13-oz-chefs-press)
