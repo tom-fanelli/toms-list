@@ -13,7 +13,7 @@ Merry Christmas Everyone!
 - [AirPods 4 with Active Noise Canceling](https://www.target.com/p/ap2022-true-wireless-bluetooth-headphones/-/A-85978618)
 - [Food processor KitchenAid attachment](https://www.kitchenaid.com/countertop-appliances/stand-mixers/attachments/p.food-processor-attachment.KSM1FPA.html)
 - [This cool knife sharpener](https://www.horl.com/us/en/sharpeners/horl3-cruise/)
-- [Blender - TBD]
+- [Ninja Blender](https://a.co/d/8GH3UXq)
 
 ## Games
 - Rummikub
