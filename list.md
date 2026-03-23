@@ -1,5 +1,8 @@
 # Tom’s Birthday List 🎁
 
+## Clothing
+- Any Syracuse / Binghamton gear (size L)
+
 ## Kitchen
 - [The Chef's Press 13oz](https://www.thechefspress.com/shop/p/13-oz-chefs-press)
 - [Garlic press](https://www.target.com/p/oxo-softworks-garlic-press/-/A-13567306)
